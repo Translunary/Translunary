@@ -1,7 +1,7 @@
 - 👋 i am me
 - 👀 i like cars
 - 🌱 i am learning 3d modeling and a few coding languages (html, lua, etc)
-- 💞️ i am not collaborating on anything
+- 💞️ ugs
 - 📫 Translunary#6151
 
 <!---
